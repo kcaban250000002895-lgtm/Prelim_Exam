@@ -97,6 +97,7 @@
     .programs-section{
         background-color: #1a1a1a;
         padding: 60px 0;
+        border-top: 1px solid #242323;       
     }
 
     .section-title{
@@ -114,8 +115,8 @@
         gap: 25px;
     }
 
-    .programs-card{
-        background-color: #121212;
+    .program-card{
+        background-color: #242323;
         border: 1px solid #333333;
         border-radius: 4px;
         padding: 25px;
@@ -135,6 +136,7 @@
     .table-section{
         background-color: #121212;
         padding: 60px 0;
+        border-top: 1px solid #242323;
     }
 
     .table-wrapper{
@@ -161,6 +163,7 @@
     .specs-table tbody td{
         padding: 14px 16px;
         border: 1px solid #333333;
+        background-color: #242323;
         color: #dedede;
     }
 
@@ -170,21 +173,23 @@
     }
 
     .form-section{
-        background-color: #1a1a1a;
+        background-color: #121212;
+        border: 1px solid #121212;
         padding: 60px 0;
+        border-top: 1px solid #242323;
     }
 
     .form-wrapper{
         max-width: 420px;
         margin: 0 auto;
-        background-color: #121212;
-        border: 1px solid #F59B14;
+        background-color: #242323;
+        border-top: 2px solid #F59B14;
         border-radius: 4px;
         padding: 30px;
     }
 
     .form-wrapper .section-title{
-        text-align: left;
+        text-align: center;
         margin-bottom: 25px;
     }
 
